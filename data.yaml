@@ -1,0 +1,13 @@
+train: C:/Users/Lin/Desktop/yolov10/train/images
+val: C:/Users/Lin/Desktop/yolov10/valid/images
+test: C:/Users/Lin/Desktop/yolov10/test/images
+
+nc: 5
+names: ['eyeclose', 'eyeopen', 'face', 'phone', 'yawn']
+
+roboflow:
+  workspace: yuan-sheng
+  project: dm7-umln0
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yuan-sheng/dm7-umln0/dataset/1

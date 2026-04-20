@@ -1,0 +1,6 @@
+__pycache__/
+*.cache
+train/
+valid/
+test/
+DM7.v1-----.yolov11.zip
