@@ -30,4 +30,4 @@ The extended six-class DMS model, including `smoke`, is maintained in [yolo-dms-
 
 ## Related Fall-Detection Project
 
-The robotic-dog fall-detection system uses a separate custom YOLO11s model and is maintained in [app_rescue_dog](https://github.com/tel0955850213/app_rescue_dog).
+The robotic-dog fall-detection system uses a separate custom YOLO11s model. Its repository is private because the dataset contains real people's faces.
